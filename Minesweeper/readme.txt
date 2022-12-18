@@ -1,0 +1,1 @@
+This project involved using the SFML library to create a minesweeper game. This project demonstrates usage of pointers and guis.
